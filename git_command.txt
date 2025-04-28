@@ -1,0 +1,33 @@
+git --version
+ 1505  git init
+ 1506  git status
+ 1507  git add test.py
+ 1508  git status
+ 1509  git commit "first commit"
+ 1510  git commit -m "first commit"
+ 1511  git status
+ 1512  git add test.py
+ 1513  git commit -m test.py
+ 1514  rm test.py
+ 1515  ls
+ 1516  git status
+ 1517  git restore test.py
+ 1518  ls
+ 1519  git rm -cached text.py
+ 1520  git rm --cached text.py
+ 1521  git rm --cached test.py
+ 1522  ls
+ 1523  git status
+ 1524  git add test.py
+ 1525  git status
+ 1526  git -cached test.py
+ 1527  git rm --cached test.py
+ 1528  git status
+ 1529  git add test.py
+ 1530  git status
+ 1531  git commit -m "second commit"
+ 1532  git status
+ 1533  git commit -m "again commited"
+ 1534  git add .
+ 1535  git status
+ 1536  git commit -m "all commit"
