@@ -31,3 +31,6 @@ git --version
  1534  git add .
  1535  git status
  1536  git commit -m "all commit"
+
+ gut renite -v
+ git remote set-url origin https://tokenurl@github.com/Asmita-bit/github-workshop.git
