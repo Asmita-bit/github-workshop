@@ -1,1 +1,8 @@
-print("Hello Dosto! I am Asmita Gupta. I am learning github for devops with Shuvam")
+def hello():
+    '''
+    this is demo
+    '''
+    return "Hello Dosto"
+
+
+hello()
